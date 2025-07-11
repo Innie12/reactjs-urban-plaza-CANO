@@ -13,7 +13,6 @@ const CardStores = ({
       {/* Store 1 */}
       <div className="bg-gray-100 rounded-lg overflow-hidden shadow-md hover:shadow-xl transition duration-300">
         <img
-          image
           src={image}
           alt={alt}
           className="w-full h-48 object-cover"
